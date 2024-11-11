@@ -1,6 +1,6 @@
  # System of homogeneous equation 
 
-from numpy import matrix, linalg
+ '''from numpy import matrix, linalg
 import numpy as np
 
 #matrix A elements
@@ -26,4 +26,4 @@ Solution_of_the_system_of_Equations = np.linalg.solve(Coefficients_Matrix, Colou
 
 print("Solution of the system of equations using Gauss elimination method")
 
-print(Solution_of_the_system_of_Equations)
+print(Solution_of_the_system_of_Equations)'''
